@@ -1,0 +1,5 @@
+GenBank file,source,gene,CDS,misc_feature,rRNA,tRNA,repeat_region,tmRNA,misc_RNA,ncRNA,mobile_element,misc_binding
+e_coli,1,5329,5067,160,22,103,65,1,0,0,0,0
+Mycobacterium tuberculosis,1,4069,3948,29,3,45,262,1,0,22,56,0
+Pneumoniae,1,2402,2155,8,12,55,0,1,0,2,0,7
+salmonella,1,4649,4323,4,22,78,0,0,9,0,0,0
